@@ -1,2 +1,2 @@
 # hello-world
-Testing 123
+I'm Mike. I produce websites, apps, and sometimes events. 
